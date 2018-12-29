@@ -33,6 +33,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 The video walkthrough for building the app and setting up the git on terminal was really helpful. 
+However, I found implementing optional features difficult to follow (from saving/loading data section and on),
+I hope there was a video walkthrough like other tutorials to see clearly where to apply the codes and how the code will run in the simulator, etc. 
 
 ## License
 
